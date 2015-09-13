@@ -1,3 +1,5 @@
+package sql;
+
 /**
  * Created by Ray on 2015/9/13.
  * SQL语句处理工具类
